@@ -10,7 +10,7 @@ To reproduce the above result, follow the steps below -
 
 1. Clone this repository in a new ros2 workspace in src directory (`turtlebot3_ws/src`) 
 ```
-git clone git@github.com:thehummingbird/nav2_demo_turtlebot3.git .
+git clone https://github.com/shoaib6174/Jderobot--Navigating-Turtlebot.git .
 ```
 2. Import TurtleBot3 packages with vcs 
 ```
@@ -55,5 +55,7 @@ ros2 launch tb3_autonomy autonomy.launch.py
 This starts our demonstration where TurtleBot moves between 4 different locations in the world simulation.
 
 
+References:
+- https://github.com/thehummingbird/nav2_demo_turtlebot3
 
 
