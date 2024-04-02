@@ -19,8 +19,6 @@ vcs import . < turtlebot3.repos
 3. Build all packages from workspace directory (`turtlebot3_ws`)
 ```
 colcon build --symlink-install
-
-Ignore sterr output (that's a warning)
 ```
 4. Source the workspace
 ```
