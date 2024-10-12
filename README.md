@@ -1,4 +1,4 @@
-# Navigating Turtle bot
+# TurtleBot3 Patrolling
 
 https://github.com/shoaib6174/Navigating-Turtlebot/assets/40586752/87173fcf-a3dc-487a-963a-f58a2f94ea11
 
@@ -22,7 +22,7 @@ To reproduce the above result, follow the steps below -
 
 1. Clone this repository in a new ros2 workspace in src directory (`turtlebot3_ws/src`) 
 ```
-git clone https://github.com/shoaib6174/Navigating-Turtlebot.git .
+git clone https://github.com/shoaib6174/TurtleBot3-Patrolling.git .
 ```
 2. Import TurtleBot3 packages with vcs 
 ```
